@@ -63,6 +63,6 @@ The project combines these modules to provide a simple, reliable and automated s
 The main objective of this project is to develop a secure and automated building access-control system using the LPC2129 ARM7 microcontroller. The system authenticates users, controls door access, monitors security conditions and stores important security data.
 
 ##Team Members
-V25BE8M2(MUNAGAPATI VENKATASAI)
-V25BE8K2(MADIHA KANDUKURI)
-V25BE8B5(BHAGYASHREE MANE)
+- V25BE8M2(MUNAGAPATI VENKATASAI)
+- V25BE8K2(MADIHA KANDUKURI)
+- V25BE8B5(BHAGYASHREE MANE)
